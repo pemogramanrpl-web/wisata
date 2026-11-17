@@ -1,0 +1,6 @@
+{
+  "name": "Lereng Asri Eco-Sanctuary",
+  "description": "An Indonesian highland eco-village sanctuary offering sustainable bamboo villas, heritage Javanese joglos, agro-tourism coffee walks, and village concierge hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
